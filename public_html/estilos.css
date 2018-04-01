@@ -1,0 +1,75 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 01-abr-2018, 3:01:18
+    Author     : Vidal
+*/
+
+#cabecera{
+    font-family: Rockwell Condensed;
+    font-size: 50px;
+    color: #B71C1C;
+    text-align: center; 
+    
+}
+ul li{
+    list-style-type: none;
+    display: inline;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Rockwell;
+    background: #424949;
+    color: #B71C1C;
+    padding: 15px;
+    border-radius: 100px;
+   
+}
+#Menu{
+    text-align: center;
+     
+}
+img{
+    border-radius: 100px;
+}
+#cuerpo{
+    text-align: center;
+    font-family: Arial;
+    font-size: 17px;
+    color: #17202A;
+    
+}
+#pie{
+    background: #424949;
+    text-align: center;
+    font-size: 24px;
+    color:#B71C1C;
+}
+form{
+    margin: 0 auto;
+    width: 800px;
+    background: #424949;
+    padding: 2px;
+    border-radius: 10px;
+}
+hi{
+    text-align: center;
+}
+form div{
+    margin-bottom: 5px;
+}
+label{
+    font-family: Rockwell;
+    width: 100px;
+    text-align: right;
+    display: inline;
+}
+input{
+    width: 200px;
+}
+textArea{
+    width: 400px;
+    vertical-align: middle;
+}
